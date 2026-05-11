@@ -14,17 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the intersect
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-### Frameworks & Libraries
-- **AI/ML**: PyTorch, Transformers, Unsloth, Pydantic
-- **Web**: FastAPI, Streamlit
-- **Databases**: Qdrant, PostgreSQL
-
-### Cloud & Platforms
-- Hugging Face
-- Unsloth
-- Ollama (local AI)
-
 ## 📁 Featured Projects
 
 ### 🔍 Document Intelligence RAG Prototype
@@ -39,11 +28,6 @@ An open-source pipeline for extracting structured data from scanned documents us
 - Conversational agent interface
 - Local LLM integration (Ollama)
 
-## 🎯 Current Focus
-
-- 🔬 Researching efficient fine-tuning techniques for vision models
-- 🏗️ Building production-ready AI applications
-- 📚 Learning advanced NLP and computer vision concepts
 
 ## 📫 Get In Touch
 
