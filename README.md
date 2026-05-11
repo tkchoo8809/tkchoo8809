@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I am passionate in automation, specifically in bridging traditional processes and technology to leverage AI, machine learning, and IoT concepts to build smart solutions.
 
-- 🎓 SIT Graduate | Digital Supply Chain
-- 🤖 Focus | Agentic AI, Computer Vision and LLMs
-- 📄 Current Project | Developing a intelligent document system using VLMs and Agentic RAG architecture
-- 🌟 Philosophy | Always exploring, constantly learning and obsessed with building "cool" stuff that actually works
+- 🎓 **SIT Graduate**  |  Digital Supply Chain
+- 🤖 **Focus**  |  Agentic AI, Computer Vision and LLMs
+- 📄 **Current Project**  |  Developing a intelligent document system using VLMs and Agentic RAG architecture
+- 🌟 **Philosophy**  |  Always exploring, constantly learning and obsessed with building "cool" stuff that actually works
 
 ## ⚙️ Tech Stack
 | **Category** | **Tools & Technologies** |
