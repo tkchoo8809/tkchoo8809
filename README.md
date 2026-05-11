@@ -9,9 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the intersect
 - 📄 Working on document intelligence projects using RAG and VLMs
 - 🌟 Always exploring, learning and building cool stuff
 
-## 🛠️ Technologies & Tools
-
-### Languages
+## 📖 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📁 Featured Projects
