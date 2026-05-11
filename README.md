@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tin Khang!
 
-Welcome to my GitHub profile! I am passionate about process automation, specifically in bridging traditional workflows and modern technology. My work focuses on leveraging AI, machine learning, and IoT concepts to build smart solutions that drive digital transformation.
+Welcome to my GitHub profile! I am passionate about process automation, specifically in bridging traditional workflows and modern technology. The projects that I have worked on focuses on leveraging AI, machine learning, and IoT concepts to build smart solutions that drive digital transformation.
 
 - 🎓 **SIT Graduate**  |  Digital Supply Chain
 - 🤖 **Focus**  |  Agentic AI, Computer Vision and LLMs
